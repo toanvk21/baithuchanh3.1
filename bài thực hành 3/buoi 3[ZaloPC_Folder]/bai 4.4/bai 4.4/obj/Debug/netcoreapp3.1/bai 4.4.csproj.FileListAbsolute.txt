@@ -1,0 +1,13 @@
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\bin\Debug\netcoreapp3.1\bai 4.4.exe
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\bin\Debug\netcoreapp3.1\bai 4.4.deps.json
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\bin\Debug\netcoreapp3.1\bai 4.4.runtimeconfig.json
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\bin\Debug\netcoreapp3.1\bai 4.4.runtimeconfig.dev.json
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\bin\Debug\netcoreapp3.1\bai 4.4.dll
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\bin\Debug\netcoreapp3.1\bai 4.4.pdb
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\obj\Debug\netcoreapp3.1\bai 4.4.csprojAssemblyReference.cache
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\obj\Debug\netcoreapp3.1\bai 4.4.AssemblyInfoInputs.cache
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\obj\Debug\netcoreapp3.1\bai 4.4.AssemblyInfo.cs
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\obj\Debug\netcoreapp3.1\bai 4.4.csproj.CoreCompileInputs.cache
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\obj\Debug\netcoreapp3.1\bai 4.4.dll
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\obj\Debug\netcoreapp3.1\bai 4.4.pdb
+E:\bai tap thuc hanh\buoi 3\bai 4.4\bai 4.4\obj\Debug\netcoreapp3.1\bai 4.4.genruntimeconfig.cache

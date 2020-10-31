@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>DO_AN_1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="businiss\" />
+    <Folder Include="DataAccessLayer\" />
+    <Folder Include="Dentiies\" />
+    <Folder Include="NewFolder\" />
+    <Folder Include="Properties\" />
+    <Folder Include="Presenation\" />
+  </ItemGroup>
+
+</Project>
